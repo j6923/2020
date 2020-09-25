@@ -5,6 +5,7 @@ calss Cat:
     print("미치오,미치오")
     print(미오)
     print("미오우,미오우")
+    print("츠,츠")	
     print("멍멍")
     self.name = name 
     self.age = age 
